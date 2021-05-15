@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.examples.wordcount.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-15T19:24:48" hostname="amit-Inspiron-15-3567" time="2.234">
+  <properties/>
+  <testcase name="parDo" classname="org.apache.beam.learning.katas.examples.wordcount.TaskTest" time="2.234"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

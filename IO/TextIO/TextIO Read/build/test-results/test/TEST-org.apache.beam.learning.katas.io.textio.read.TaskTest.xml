@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.io.textio.read.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T20:01:54" hostname="amit-Inspiron-15-3567" time="2.217">
+  <properties/>
+  <testcase name="textIO" classname="org.apache.beam.learning.katas.io.textio.read.TaskTest" time="2.217"/>
+  <system-out><![CDATA[00:01:55.393 INFO  : Filepattern countries.txt matched 1 files with total size 86
+00:01:55.410 INFO  : Splitting filepattern countries.txt into bundles of size 21 took 1 ms and produced 1 files and 4 bundles
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.coretransforms.composite.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T19:40:03" hostname="amit-Inspiron-15-3567" time="2.206">
+  <properties/>
+  <testcase name="compositeTransform" classname="org.apache.beam.learning.katas.coretransforms.composite.TaskTest" time="2.206"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

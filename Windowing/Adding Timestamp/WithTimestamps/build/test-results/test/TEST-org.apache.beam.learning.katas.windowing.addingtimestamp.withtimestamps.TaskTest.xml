@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.windowing.addingtimestamp.withtimestamps.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-15T17:59:02" hostname="amit-Inspiron-15-3567" time="3.514">
+  <properties/>
+  <testcase name="windowing_addingTimeStamp_withTimestamps" classname="org.apache.beam.learning.katas.windowing.addingtimestamp.withtimestamps.TaskTest" time="3.514"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

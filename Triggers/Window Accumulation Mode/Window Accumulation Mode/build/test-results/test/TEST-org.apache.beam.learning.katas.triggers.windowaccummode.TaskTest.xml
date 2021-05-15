@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.triggers.windowaccummode.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-15T19:06:36" hostname="amit-Inspiron-15-3567" time="3.192">
+  <properties/>
+  <testcase name="eventTimeTrigger" classname="org.apache.beam.learning.katas.triggers.windowaccummode.TaskTest" time="3.192"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

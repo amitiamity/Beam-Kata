@@ -1,0 +1,2 @@
+R00:01:55.393 INFO  : Filepattern countries.txt matched 1 files with total size 86
+~00:01:55.410 INFO  : Splitting filepattern countries.txt into bundles of size 21 took 1 ms and produced 1 files and 4 bundles

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.commontransforms.withkeys.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T19:58:10" hostname="amit-Inspiron-15-3567" time="1.751">
+  <properties/>
+  <testcase name="groupByKey" classname="org.apache.beam.learning.katas.commontransforms.withkeys.TaskTest" time="1.751"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

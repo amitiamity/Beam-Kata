@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.coretransforms.map.pardo.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T18:12:03" hostname="amit-Inspiron-15-3567" time="1.785">
+  <properties/>
+  <testcase name="parDo" classname="org.apache.beam.learning.katas.coretransforms.map.pardo.TaskTest" time="1.785"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

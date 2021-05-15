@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.beam.learning.katas.coretransforms.combine.combinefn.TaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T09:02:34" hostname="amit-Inspiron-15-3567" time="2.164">
+  <properties/>
+  <testcase name="combine_combineFn" classname="org.apache.beam.learning.katas.coretransforms.combine.combinefn.TaskTest" time="2.164"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
